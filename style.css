@@ -54,6 +54,10 @@ article {
   width: 70%;
   background-color: #f1f1f1; 
 }
+/* Style Paragraphs <p> */
+p{
+  white-space: wrap;
+}
 /* Style Images */
 img {
   width: 1088px;
