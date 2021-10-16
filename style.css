@@ -1,6 +1,9 @@
+/* Header 1 Styles */
 h1 {
   background-color: LightSeaGreen;
 }
+
+/* Navigation Bar Styles */
 /* Here I have styled my list so there is no bullet points, and the changed the background colour to thistle */
 /* margins and padding are set to 0 to remove browser default settings */
 ul {
@@ -22,4 +25,13 @@ li a {
 li a:hover {
   background-color: #555;
   color: white;
+}
+
+/* Arcticle (main text)Styles */
+article {
+  float: left;
+  padding: 20px;
+  width: 70%;
+  background-color: #f1f1f1;
+  height: 300px;
 }
