@@ -1,6 +1,9 @@
 /* Header 1 Styles */
 h1 {
   background-color: LightSeaGreen;
+  padding: 40px;
+  text-align: center;
+  font-size: 30px;
 }
 
 /* Navigation Bar Styles */
