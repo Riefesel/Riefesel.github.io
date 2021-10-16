@@ -5,7 +5,10 @@ h1 {
   text-align: center;
   font-size: 30px;
 }
-
+section{
+  height: 100%;
+  background-color: thistle;
+}
 /* Navigation Bar Styles */
 /* Here I have styled my list so there is no bullet points, and the changed the background colour to thistle */
 /* margins and padding are set to 0 to remove browser default settings */
