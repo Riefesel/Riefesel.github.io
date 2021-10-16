@@ -32,8 +32,9 @@ li a:hover {
 nav {
   float: left;
   width: 30%;
+  height: 100%;
   padding:30ppx;
-}
+  }
 
 /* Arcticle (main text)Styles */
 article {
