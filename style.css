@@ -30,10 +30,10 @@ ul {
 /* I have styled list items with no text-decoration */
 li a {
   display: block; 
-  color: green; 
   padding: 8px 16px;
   text-decoration: none;
 }
+/* styled nav bar items to highlight in grey when mouse hovers over top, and text turns white when mouse hover over item */
 li a:hover {
   background-color: #555;
   color: white;
