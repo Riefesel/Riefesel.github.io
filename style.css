@@ -14,6 +14,7 @@ ul {
   margin: 0;
   margin: 0;
   width: 200px; 
+  height: 100%;
   background-color: thistle;
 }
 /*  I have styled my list items so users can select a block around the text to click the link not just the text */
@@ -37,8 +38,11 @@ nav {
   }
 
 /* Arcticle (main text)Styles */
+/* float pushes block element to the right */
+/* width makes the article block element to 70% of the screen */
+/* background colour set to neutral light colour */
 article {
-  float: right;
+  float: right; 
   padding: 20px;
   width: 70%;
   background-color: #f1f1f1; 
