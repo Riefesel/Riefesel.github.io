@@ -17,7 +17,7 @@ ul {
   margin: 0;
   margin: 0;
   width: 20%; 
-  height: 100%;
+  height: 50%;
   background-color: thistle;
   position: fixed;
 }
@@ -46,7 +46,7 @@ li a.active {
 /* margin left shift article over to cover 70% of the page on the right */
 /* background colour set to neutral light colour */
 article {
-  margin-left: 30%; 
+  margin-left: 20%; 
   padding: 5px 20px;
   background-color: #f1f1f1; 
 }
