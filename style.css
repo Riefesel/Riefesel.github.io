@@ -65,6 +65,15 @@ ul.r {
   height: 100%;
   }
 
+
+/* Style certificates list class .c */
+ul.c {
+  list-style-type: square;
+  margin: 0;
+  margin: 0;
+  width: 200px; 
+  height: 100%;
+  }
 /* Style Paragraphs <p> */
 
 /* Style Images */
