@@ -17,7 +17,7 @@ ul {
   margin: 0;
   margin: 0;
   width: 20%; 
-  height: 50%;
+  height: 100%;
   background-color: thistle;
   position: fixed;
 }
@@ -35,18 +35,19 @@ li a:hover {
   color: white;
 }
 /* styled nav bar items so that active page has a background colour of dark grey and white text */
-li a.active {
-  background-color: #555;
-  color: white;
-}
+/* li a.active { */
+/*   background-color: #555; */
+/*   color: white; */
+/* } */
 
 
 /* -------------- Arcticle (main text)Styles-------------------- */
 /* float pushes block element to the right */
-/* margin left shift article over to cover 70% of the page on the right */
+/* margin left shift article over to cover 75% of the page on the right */
 /* background colour set to neutral light colour */
 article {
-  margin-left: 20%; 
+  margin-left: 25%;
+  height: 100%;
   padding: 5px 20px;
   background-color: #f1f1f1;
   position: fixed;
@@ -65,6 +66,7 @@ li.c{
 }
 
 /* Style Images */
+/* make images smaller by pixels to preserve aspect of .jpg */
 img {
   width: 718px;
   height: 538px;
