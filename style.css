@@ -10,6 +10,7 @@ h1 {
 /* ----------- Navigation Bar Styles -------------- */
 /* Here I have styled my list so there is no bullet points, and the changed the background colour to thistle */
 /* margins and padding are set to 0 to remove browser default settings */
+/* height is set to 100% so it stretches full length of page*/
 /*make nav bar stick to position while main text can scroll*/
 ul {
   list-style-type: none;
@@ -17,7 +18,7 @@ ul {
   margin: 0;
   width: 200px; 
   height: 100%;
-  background-color: thistle
+  background-color: thistle;
   position: fixed;
 }
 /*  I have styled my list items so users can select a block around the text to click the link not just the text */
@@ -30,6 +31,11 @@ li a {
 }
 /* styled nav bar items to highlight in grey when mouse hovers over top, and text turns white when mouse hover over item */
 li a:hover {
+  background-color: #555;
+  color: white;
+}
+/* styled nav bar items so that active page has a background colour of dark grey and white text */
+li a.active {
   background-color: #555;
   color: white;
 }
