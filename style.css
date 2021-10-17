@@ -46,7 +46,7 @@ li a:hover {
 /* background colour set to neutral light colour */
 article {
   margin-left: 25%;
-  wdith: 100%;
+  width: 100%;
   padding: 5px 20px;
   background-color: #f1f1f1;
 }
@@ -56,7 +56,7 @@ ul.c {
   list-style-type: square;
   margin: 0;
   margin: 0;
-  width: 200px; 
+  width: 100%; 
   height: 100%;
   background-color: #f1f1f1;
   }
