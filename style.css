@@ -1,10 +1,13 @@
-/* Header 1 Styles */
+/* -------------- Header 1 Styles ------------------ */
 h1 {
   background-color: DarkSeaGreen;
   padding: 40px;
   text-align: center;
   font-size: 30px;
 }
+
+
+/* ----------- Navigation Bar Styles -------------- */
 
 /* Section containing left nav bar styles */
 section{
@@ -13,8 +16,6 @@ section{
   height: 100%;
   background-color: thistle;
 }
-
-/* Navigation Bar Styles */
 /* Here I have styled my list so there is no bullet points, and the changed the background colour to thistle */
 /* margins and padding are set to 0 to remove browser default settings */
 ul {
@@ -44,7 +45,8 @@ nav {
   height: 100%;
 }
 
-/* Arcticle (main text)Styles */
+
+/* -------------- Arcticle (main text)Styles-------------------- */
 /* float pushes block element to the right */
 /* width makes the article block element to 70% of the screen */
 /* background colour set to neutral light colour */
@@ -56,17 +58,8 @@ article {
 }
 
 
-/* Style the research experience list class .r */
-ul.r {
-  list-style-type: square;
-  margin: 0;
-  margin: 0;
-  width: 200px; 
-  height: 100%;
-  }
 
-
-/* Style certificates list class .c */
+/* Style certificates list class .c for research postion bullet points and certificat bullet points*/
 ul.c {
   list-style-type: square;
   margin: 0;
