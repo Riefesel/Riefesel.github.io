@@ -10,21 +10,24 @@ h1 {
 /* ----------- Navigation Bar Styles -------------- */
 /* Here I have styled my list so there is no bullet points, and the changed the background colour to thistle */
 /* margins and padding are set to 0 to remove browser default settings */
-/* height is set to 100% so it stretches full length of page*/
-/*make nav bar stick to position while main text can scroll*/
+/* */
 ul {
   list-style-type: none;
   margin: 0;
   margin: 0;
-  width: 20%; 
-  height: 100%;
+/*   width: 20%; 
+  height: 100%; */
   background-color: thistle;
  }
 /*  I have styled my list items so users can select a block around the text to click the link not just the text */
 /* I have styled my list items to be COLOUR with a padding of 8x 16x */
 /* I have styled list items with no text-decoration */
+li{
+  float:left;
+}
 li a {
   display: block; 
+  text-align: center;
   padding: 8px 16px;
   text-decoration: none;
 }
