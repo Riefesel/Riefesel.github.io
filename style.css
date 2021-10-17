@@ -58,7 +58,7 @@ article {
 
 /* Style the research experience list class .r */
 ul.r {
-  list-style-type: none;
+  list-style-type: square;
   margin: 0;
   margin: 0;
   width: 200px; 
