@@ -8,14 +8,6 @@ h1 {
 
 
 /* ----------- Navigation Bar Styles -------------- */
-
-/* Section containing left nav bar styles */
-section{
-  float: left;
-  width: 30%;
-  height: 100%;
-  background-color: thistle;
-}
 /* Here I have styled my list so there is no bullet points, and the changed the background colour to thistle */
 /* margins and padding are set to 0 to remove browser default settings */
 /*make nav bar stick to position while main text can scroll*/
@@ -40,11 +32,6 @@ li a {
 li a:hover {
   background-color: #555;
   color: white;
-}
-nav {
-  float: left;
-  width: 30%;
-  height: 100%;
 }
 
 
