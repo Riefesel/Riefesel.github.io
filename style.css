@@ -48,9 +48,9 @@ li a:hover {
 /* margin left shift article over to cover 75% of the page on the right */
 /* background colour set to neutral light colour */
 article {
-  float: right;
+/*   float: right; */
 /*   margin-left: 25%; */
-  width: 50%;
+  width: 75%;
   padding: 5px 20px;
   background-color: #f1f1f1;
 }
