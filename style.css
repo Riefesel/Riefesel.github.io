@@ -19,8 +19,7 @@ ul {
   width: 20%; 
   height: 100%;
   background-color: thistle;
-  position: fixed;
-}
+ }
 /*  I have styled my list items so users can select a block around the text to click the link not just the text */
 /* I have styled my list items to be COLOUR with a padding of 8x 16x */
 /* I have styled list items with no text-decoration */
@@ -47,7 +46,6 @@ li a:hover {
 /* background colour set to neutral light colour */
 article {
   margin-left: 25%;
-  height: 100%;
   padding: 5px 20px;
   background-color: #f1f1f1;
 }
