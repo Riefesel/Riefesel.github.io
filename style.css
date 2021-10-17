@@ -1,9 +1,13 @@
-/* -------------- Header 1 Styles ------------------ */
+/* -------------- Header Styles ------------------ */
+/* I have chosen 'darkseagree' as my bacground colour */
+/* Centred text to middle of webpage */
+/* Set text to font size of 30px */
+/* This header is styled the same across the entire website so layout stays consistent */
 h1 {
   background-color: DarkSeaGreen;
-  padding: 20px;
   text-align: center;
   font-size: 30px;
+  padding: 20px;
 }
 
 
@@ -15,8 +19,8 @@ ul {
   list-style-type: none;
   margin: 0;
   margin: 0;
-/*   width: 20%; 
-  height: 100%; */
+  width: 100%; 
+  height: 15%; 
   background-color: thistle;
  }
 /*  I have styled my list items so users can select a block around the text to click the link not just the text */
