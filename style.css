@@ -59,7 +59,9 @@ ul.c {
   width: 200px; 
   height: 100%;
   }
-/* Style Paragraphs <p> */
+/* Style  for list items in class .c for research and certificates */
+li.c{
+}
 
 /* Style Images */
 img {
