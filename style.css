@@ -16,7 +16,7 @@ ul {
   list-style-type: none;
   margin: 0;
   margin: 0;
-  width: 200px; 
+  width: 20%; 
   height: 100%;
   background-color: thistle;
   position: fixed;
@@ -43,12 +43,11 @@ li a.active {
 
 /* -------------- Arcticle (main text)Styles-------------------- */
 /* float pushes block element to the right */
-/* width makes the article block element to 70% of the screen */
+/* margin left shift article over to cover 70% of the page on the right */
 /* background colour set to neutral light colour */
 article {
-  float: right; 
-  padding: 20px;
-  width: 70%;
+  margin-left: 30%; 
+  padding: 5px 20px;
   background-color: #f1f1f1; 
 }
 
