@@ -13,6 +13,7 @@ h1 {
 /* height is set to 100% so it stretches full length of page*/
 /*make nav bar stick to position while main text can scroll*/
 ul {
+  display: inline-block;
   list-style-type: none;
   margin: 0;
   margin: 0;
@@ -45,6 +46,7 @@ li a:hover {
 /* margin left shift article over to cover 75% of the page on the right */
 /* background colour set to neutral light colour */
 article {
+  display: inline;
   margin-left: 25%;
   width: 50%;
   padding: 5px 20px;
@@ -61,8 +63,8 @@ ul.c {
   background-color: #f1f1f1;
   }
 /* Style  for list items in class .c for research and certificates */
-li.c{
-}
+/* li.c{
+} */
 
 /* Style Images */
 /* make images smaller by pixels to preserve aspect of .jpg */
