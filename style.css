@@ -10,6 +10,14 @@ h1 {
   padding: 20px;
 }
 
+h3.profile{
+  float: right
+}
+
+p.profile{
+  float: right
+}
+
 
 /* ----------- Navigation Bar Styles -------------- */
 /* Here I have styled my list so there is no bullet points, and the changed the background colour to thistle */
