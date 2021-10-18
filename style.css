@@ -78,3 +78,10 @@ img {
   width: 718px;
   height: 538px;
 }
+/* Style Profile Page Image */
+/* float profile image to left of container so left of text, and make images smaller by pixels to preserve aspect of .jpg */
+img {
+  float: left;
+  width: 718px;
+  height: 538px;
+}
