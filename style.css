@@ -11,11 +11,11 @@ h1 {
 }
 
 h3.profile{
-  float: right
+  float: none;'
 }
 
 p.profile{
-  float: right
+  float: none;
 }
 
 
