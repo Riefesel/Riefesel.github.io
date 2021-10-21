@@ -95,7 +95,7 @@ img {
 /* float profile image to left of container so left of text, and make images smaller by pixels to preserve aspect of .jpg */
 img.profile {
   float: left;
-  width: 718px;
-  height: 538px;
+  width: 359px;
+  height: 269px;
   margin: 15px;
 }
