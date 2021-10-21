@@ -18,7 +18,9 @@ h1 {
 
 h3.profile{
   float: none;
+  text: bold;
 }
+  
 
 h2.profile{
   float: center;
@@ -44,7 +46,7 @@ ul {
 /*  I have styled my list items so users can select a block around the text to click the link not just the text */
 /* I have styled my list items to be colour and padding */
 /* list items for the nav bar, external links, and content have been styled in different ways by using classes */
-/* Source: https://www.w3schools.com/html/html_links_colors.asp and https://www.w3schools.com/html/html_links_colors.asp*/
+/* Source: https://www.w3schools.com/html/html_links_colors.asp, https://www.w3schools.com/colors/colors_picker.asp, https://www.w3schools.com/html/html_colors.asp and, https://www.w3schools.com/html/html_links_colors.asp*/
 li{
   float: none;
 }
@@ -80,17 +82,13 @@ li a.lab:hover {
   color: white;
 }
 
-/* styled nav bar items so that active page has a background colour of dark grey and white text */
-/* li a.active { */
-/*   background-color: #555; */
-/*   color: white; */
-/* } */
-
 
 /* -------------- Arcticle (main text)Styles-------------------- */
 /* float pushes block element to the right */
 /* margin left shift article over to cover 75% of the page on the right */
 /* background colour set to neutral light colour */
+/* source: https://www.w3schools.com/html/html_layout.asp */
+
 article {
   width: 75%;
   padding: 5px 20px;
