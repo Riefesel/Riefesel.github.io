@@ -15,12 +15,13 @@ h1 {
   padding: 20px;
   width: 100%;
 }
-
+/* Font weight set to bold for h3 */
+/* source: https://www.w3schools.com/cssref/pr_font_weight.asp  */
 h3.profile{
   float: none;
-  text: bold;
+  font-weight: bold;
 }
-  
+ 
 
 h2.profile{
   float: center;
@@ -111,6 +112,7 @@ li.c{
 
 /* Style Images */
 /* make images smaller by pixels to preserve aspect of .jpg */
+/* source: https://www.w3schools.com/howto/howto_css_style_header.asp */
 img {
   width: 718px;
   height: 538px;
