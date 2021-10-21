@@ -58,6 +58,13 @@ li a:hover {
   background-color: #555;
   color: white;
 }
+
+li a.lab {
+  display: block; 
+  text-align: left;
+  padding: 8px 16px;
+  text-decoration: none;
+}
 /* styled nav bar items so that active page has a background colour of dark grey and white text */
 /* li a.active { */
 /*   background-color: #555; */
